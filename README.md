@@ -1,1 +1,1 @@
-# Retoteming tweaks (cheats) for Minecraft
+# Retoteming tweaks (cheats) for Minecraft Fabric
